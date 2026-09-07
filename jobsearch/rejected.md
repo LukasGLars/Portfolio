@@ -47,3 +47,4 @@ even if it resurfaces in a later search/JobTech pass.
 | cilbuper IT AB | Business Analyst | 2026-09-03 | https://pnty-apply.ponty-system.se/cilbuper?id=555 |
 | Surgical Science Sweden AB | Product Specialist | 2026-09-03 | https://careers.surgicalscience.com/job/f5bf3d064cd04672a6149bb9bea16db6?utm_medium=talentech_publishing&utm_source=jobtip_editor |
 | Surgical Science Sweden AB | Product Specialist | 2026-09-03 | https://careers.surgicalscience.com/job/f5bf3d064cd04672a6149bb9bea16db6?utm_medium=talentech_publishing&utm_source=jobtip_editor |
+| Avaron AB | Kravanalytiker / Business Analyst | 2026-09-07 | https://jobs.avaron.se/jobs/8308943-kravanalytiker-business-analyst/applications/new?promotion=2175074-arbetsformedlingen |
